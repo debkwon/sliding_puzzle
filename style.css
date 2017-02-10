@@ -1,0 +1,29 @@
+body {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color: #684949;
+}
+
+a {
+  text-decoration: none;
+  color: #97efe9;
+}
+
+#puzzleBox {
+  margin: 0 auto;
+  color: #f76f07;
+  font-size: 1.5em;
+}
+#puzzleBox td{
+  width: 100px;
+  height: 100px;
+}
+
+.tiles {
+  background-color: #97efe9;
+}
+
+.blank {
+  background-color: #f2e8e8;
+}
+
